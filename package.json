@@ -4,6 +4,7 @@
   "description": "You will need Parcel to run TypeScript in browser,",
   "main": "index.js",
   "dependencies": {
+    "@types/faker": "^5.5.1",
     "faker": "^5.5.3",
     "parcel-bundler": "^1.12.5",
     "typescript": "^4.2.4"
