@@ -2,12 +2,12 @@
 
 ## Installation
 
-You will need parcel to run TypeScript in browser,
+You will need Parcel to run TypeScript in browser,
 
 ```bash
 # install locally
-npm init -y @ npm i parcel-bundler
+npm init -y && npm install parcel-bundler
 
 # install globally
-npm i -g parcel-bundler
+npm install -g parcel-bundler
 ```
