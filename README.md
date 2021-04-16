@@ -11,3 +11,11 @@ npm init -y && npm install parcel-bundler
 # install globally
 npm install -g parcel-bundler
 ```
+
+## Usage
+
+Start the application using parcel,
+
+```bash
+parcel index.html
+```
