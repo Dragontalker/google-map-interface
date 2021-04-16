@@ -1,3 +1,5 @@
+import faker from 'faker';
+
 class User {
   name: string;
   location: {
@@ -6,6 +8,6 @@ class User {
   };
 
   constructor() {
-    
+
   }
 }
