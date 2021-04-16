@@ -13,5 +13,6 @@ npm install
 Start the application using parcel,
 
 ```bash
+# app runs on http://localhost:1234
 npm start
 ```
