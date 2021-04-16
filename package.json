@@ -1,5 +1,24 @@
 {
-  "devDependencies": {
+  "name": "random-user-map",
+  "version": "1.0.0",
+  "description": "You will need Parcel to run TypeScript in browser,",
+  "main": "index.js",
+  "dependencies": {
     "typescript": "^4.2.4"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragontalker/random-user-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dragontalker/random-user-map/issues"
+  },
+  "homepage": "https://github.com/Dragontalker/random-user-map#readme"
 }

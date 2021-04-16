@@ -4,4 +4,8 @@ class User {
     lat: number;
     lng: number;
   };
+
+  constructor() {
+    
+  }
 }
