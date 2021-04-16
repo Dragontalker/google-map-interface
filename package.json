@@ -4,9 +4,10 @@
   "description": "You will need Parcel to run TypeScript in browser,",
   "main": "index.js",
   "dependencies": {
+    "faker": "^5.5.3",
+    "parcel-bundler": "^1.12.5",
     "typescript": "^4.2.4"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
