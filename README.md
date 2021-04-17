@@ -1,4 +1,8 @@
-# random-user-map
+# Reusable Typescript Interface for Google Map API
+
+## Description
+
+This projects includs a reusable template for develpment with Google Map API. The TypeScript interface in `CustomMap.ts` is completely resuable in any future projects.
 
 ## Installation
 
