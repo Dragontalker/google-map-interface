@@ -23,7 +23,7 @@ export class CustomMap {
     });
   };
 
-  addMarker(mappable: User | Company): void {
+  addMarker(mappable: Mappable): void {
     new google.maps.Marker({
       map: this.googleMap,
       position: {
