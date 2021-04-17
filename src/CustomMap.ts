@@ -9,5 +9,13 @@ export class CustomMap {
         lng: lngCoord
       }
     });
-  }
+  };
+
+  addUserMarker() {
+
+  };
+
+  addCompanyMarker() {
+
+  };
 };
