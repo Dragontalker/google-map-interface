@@ -1,12 +1,12 @@
 export class CustomMap {
   private googleMap: google.maps.Map;
 
-  constructor() {
-    this.googleMap = new google.maps.Map(document.getElementById('map'), {
-      zoom: 1,
+  constructor(elementId: string, zoomLevel: number, latCoord: number, lngCoord: number) {
+    this.googleMap = new google.maps.Map(document.getElementById(elementId), {
+      zoom: zoomLevel,
       center: {
-        lat: 0,
-        lng: 0
+        lat: latCoord,
+        lng: lngCoord
       }
     });
   }
