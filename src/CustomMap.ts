@@ -14,11 +14,11 @@ export class CustomMap {
     });
   };
 
-  addUserMarker() {
+  addUserMarker(user: User): void {
 
   };
 
-  addCompanyMarker() {
+  addCompanyMarker(company: Company): void {
 
   };
 };
