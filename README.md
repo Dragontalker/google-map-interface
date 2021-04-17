@@ -2,7 +2,7 @@
 
 ## Description
 
-This projects includs a reusable template for develpment with Google Map API. The TypeScript interface in `CustomMap.ts` is completely resuable in any future projects.
+This projects includes a reusable template for development with Google Map API. The TypeScript interface in `CustomMap.ts` is completely reusable in any future projects.
 
 ## Installation
 
