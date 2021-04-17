@@ -1,4 +1,4 @@
-# Reusable Typescript Interface for Google Map API
+# Reusable Typescript Interface
 
 ## Description
 
